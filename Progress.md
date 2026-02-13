@@ -1,3 +1,51 @@
-## Day 5 Progress
-- [x] Constructor
-- [x] count even and odd number in array
+## Day 6 Progress
+- [x] this keyword
+- [x] Linear Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
