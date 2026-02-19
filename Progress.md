@@ -1,3 +1,3 @@
-## Day 8 Progress
-- [ ] Class & Object
-- [ ] Reverse String
+## Day 9 Progress
+- [X ] Encapsulation
+- [ x] Palindrome string
